@@ -14,7 +14,7 @@ I am 32 years old. Have an education in management and work experience in many s
 ## Code example
 ```
 function sum(a, b) {
-  return a + b;
+   return a + b;
 }
 
 let result = sum(1, 2);
@@ -22,12 +22,13 @@ alert( result );
 ```
 ## Work experience
 My first project is RSS CV task 
+
 [CV](https://github.com/roman8909/rsschool-cv)
 ## Education
 ### Courses:
 - FLS HTML/CSS/JS course, 2021
 
-https://www.youtube.com/c/FreelancerLifeStyle/videos
+[Youtube link](https://www.youtube.com/c/FreelancerLifeStyle/videos)
 ## Languages
 - Russian - native speaker
 - English - B1 (according to the online test at [www.efset.org](https://www.efset.org/quick-check/))
