@@ -12,9 +12,9 @@ I am 32 years old. Have an education in management and work experience in many s
 - Git, GitHub
 - Figma, Adobe Photoshop
 ## Code example
-`function sum(a, b) {
+```function sum(a, b) {
   return a + b;
 }
 
 let result = sum(1, 2);
-alert( result );`
+alert( result );```
