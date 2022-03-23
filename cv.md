@@ -11,3 +11,10 @@ I am 32 years old. Have an education in management and work experience in many s
 - JavaScript (Basics)
 - Git, GitHub
 - Figma, Adobe Photoshop
+## Code example
+`function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );`
