@@ -17,4 +17,4 @@ I am 32 years old. Have an education in management and work experience in many s
 }
 
 let result = sum(1, 2);
-alert( result );```
+alert( result );
