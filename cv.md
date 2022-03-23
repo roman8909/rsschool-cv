@@ -23,7 +23,7 @@ alert( result );
 ## Work experience
 My first project is RSS CV task 
 
-https://github.com/roman8909/rsschool-cv
+[CV](https://github.com/roman8909/rsschool-cv)
 ## Education
 ### Courses:
 - FLS HTML/CSS/JS course, 2021
