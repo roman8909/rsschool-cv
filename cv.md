@@ -22,7 +22,6 @@ alert( result );
 ```
 ## Work experience
 My first project is RSS CV task 
-
 [CV](https://github.com/roman8909/rsschool-cv)
 ## Education
 ### Courses:
