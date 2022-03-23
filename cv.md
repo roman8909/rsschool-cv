@@ -28,3 +28,8 @@ https://github.com/roman8909/rsschool-cv
 - FLS HTML/CSS/JS course, 2021
 
 https://www.youtube.com/c/FreelancerLifeStyle/videos
+## Languages
+- Russian - native speaker
+- English - B1 (according to the online test at [www.efset.org](https://www.efset.org/quick-check/))
+
+![](/rsschool-cv/English%20Test.jpg)
