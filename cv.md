@@ -15,7 +15,7 @@ I am 32 years old. Have an education in management and work experience in many s
 
 ```
 function sum(a, b) {
-   return a + b;
+    return a + b;
 }
 
 let result = sum(1, 2);
